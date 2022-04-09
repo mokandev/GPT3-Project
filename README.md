@@ -1,6 +1,6 @@
 # The GPT3 Project
 
-The goal of this project was to build an app from zero, and to practice and improve my skills in CSS.
+The goal of this project was to build an app from zero, also to practice and improve my skills in CSS.
 
 ---
 
