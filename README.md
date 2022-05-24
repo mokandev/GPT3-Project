@@ -4,6 +4,8 @@ The goal of this project was to build an app from zero, also to practice and imp
 
 ---
 
+>:pushpin: The purpose of this project was to improve my CSS skills, so I used this project to practice, I did not implement JavaScript logic for buttons.
+
 ### Applied Technologies
 
 - React JS.
