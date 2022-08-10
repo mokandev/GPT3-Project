@@ -15,7 +15,7 @@ The goal of this project was to build an app from zero, also to practice and imp
 
 ### Get To Know The Project
 
-- Live Site URL: [The GPT-3 Project](https://gpt-3-project.vercel.app/)
+- App: [The GPT-3 Project](https://gpt-3-project.vercel.app/)
 
 
 ## Created By:
